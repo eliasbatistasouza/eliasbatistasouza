@@ -21,11 +21,13 @@ Atualmente estou buscando uma transição de carreira de Consultor Empresarial p
   
   <img align="center" alt="Elias-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
   <img align="center" alt="Elias-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img align="center" alt="Elias-Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 </div>
 <br>
 <br>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eliasbatistasouza&theme=gotham)
+// Activity graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eliasbatistasouza&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
