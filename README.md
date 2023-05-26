@@ -26,8 +26,8 @@ Atualmente estou buscando uma transição de carreira de Consultor Empresarial p
 <br>
 <br>
 
-// Activity graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eliasbatistasouza&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--- Activity graph --->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eliasbatistasouza&theme=github-compact&line=02a3a4)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
