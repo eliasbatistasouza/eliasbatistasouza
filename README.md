@@ -14,7 +14,7 @@ Atualmente estou buscando uma transição de carreira de Consultor Empresarial p
 </div>
 
 <div align="center">
-<h5>Estudando atualmente:
+<h5>Estudando Atualmente:
 </div>
 
 <div style="display: inline_block" align="center"><br>
