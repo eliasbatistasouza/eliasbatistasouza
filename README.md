@@ -8,7 +8,7 @@
 
 <!--- BIO --->
 <br>
-<div align="justify">
+<div align="justify" style="margin: 0px 15px 0px 15px">
   <p style="font-size: 16px">
   Olá! Eu sou um consultor empresarial com experiência em ajudar empresas a alcançar seus objetivos de negócios e maximizar sua eficiência operacional. Atualmente meu principal objetivo é atuar como Cientista de Dados buscando aliar meus conhecimentos de negócio com técnicas de análises, machine learning e estatística, buscando propor soluções para os mais diversos tipos de problemas de negócio, utilizando dados.
   </p>
