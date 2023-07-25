@@ -1,7 +1,6 @@
 <!--- LANGUAGE --->
-<div align="center" style="font-size: 9px">
-  [ <a href="/README.md">PORTUGUÊS</a> | <a href="/README_en.md">ENGLISH</a> ]
-</div>
+<h6 align="center"> [ <a href="/README.md">PORTUGUÊS</a> | <a href="/README_en.md">ENGLISH</a> ]
+</h6>
 
 
 <!--- BANNER --->
@@ -58,7 +57,7 @@ ___
 
 ___
 
-<div style="display: inline_block" align="center"><br>
+<div align="center"><br>
   <div>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white" alt="python badge"><img>
     <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas badge"><img>

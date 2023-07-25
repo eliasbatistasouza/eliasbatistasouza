@@ -1,7 +1,6 @@
 <!--- LANGUAGE --->
-<div align="center" style="font-size: 9px">
-  [ <a href="/README.md">PORTUGUÊS</a> | <a href="/README_en.md">ENGLISH</a> ]
-</div>
+<h6 align="center"> [ <a href="/README.md">PORTUGUÊS</a> | <a href="/README_en.md">ENGLISH</a> ]
+</h6>
 
 <!--- BANNER --->
 <img src="./assets/banner_PT.png"/>
@@ -9,7 +8,7 @@
 <!--- BIO --->
 <br>
 <div align="justify">
-  <div style="font-size: 16px; margin: 100px; padding: 30px">
+  <div>
   Olá! Eu sou um consultor empresarial com experiência em ajudar empresas a alcançar seus objetivos de negócios e maximizar sua eficiência operacional. Atualmente meu principal objetivo é atuar como Cientista de Dados buscando aliar meus conhecimentos de negócio com técnicas de análises, machine learning e estatística, buscando propor soluções para os mais diversos tipos de problemas de negócio, utilizando dados.
   </div>
 </div>
@@ -55,7 +54,7 @@ ___
 
 ___
 
-<div style="display: inline_block" align="center"><br>
+<div align="center"><br>
   <div>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white" alt="python badge"><img>
     <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas badge"><img>
