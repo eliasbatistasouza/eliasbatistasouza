@@ -9,10 +9,12 @@
 
 <!--- BIO --->
 <br>
-<div align="justify" style="padding: 0px 20px 0px 20px">
+<div align="justify" style="padding: 30px">
+<div>
   <p style="font-size: 16px">
     Hi! I am a business consultant with experience in helping companies achieve their business goals and maximize their operational efficiency. Currently my main goal is to act as a Data Scientist looking to combine my business knowledge with techniques of analysis, machine learning and statistics, to propose solutions for the most diverse types of business problems using data.
   </p>
+</div>
 </div>
 
 <!-- BLOG POSTS -->
