@@ -1,6 +1,6 @@
 <!--- LANGUAGE --->
 <div align="center" style="font-size: 9px">
-  [ <a href="/README.md">PORTUGUÊS</a> | <a href="/README_en.md">ENGLISH</a> ]
+  [ <a href="/README_pt.md">PORTUGUÊS</a> | <a href="/README_en.md">ENGLISH</a> ]
 </div>
 
 <!--- BANNER --->
@@ -8,15 +8,9 @@
 
 <!--- BIO --->
 <br>
-<div style="display: flex; padding: 30px">
-  <div style="margin: 5px">
-  AAAA
-  </div>
-    <p align="justify" style="font-size: 16px">
-      Olá! Eu sou um consultor empresarial com experiência em ajudar empresas a alcançar seus objetivos de negócios e maximizar sua eficiência operacional. Atualmente meu principal objetivo é atuar como Cientista de Dados buscando aliar meus conhecimentos de negócio com técnicas de análises, machine learning e estatística, buscando propor soluções para os mais diversos tipos de problemas de negócio, utilizando dados.
-  </p>
-  <div style="margin: 5px">
-  AAA
+<div align="justify">
+  <div style="font-size: 16px; margin: 100px">
+  Olá! Eu sou um consultor empresarial com experiência em ajudar empresas a alcançar seus objetivos de negócios e maximizar sua eficiência operacional. Atualmente meu principal objetivo é atuar como Cientista de Dados buscando aliar meus conhecimentos de negócio com técnicas de análises, machine learning e estatística, buscando propor soluções para os mais diversos tipos de problemas de negócio, utilizando dados.
   </div>
 </div>
 
