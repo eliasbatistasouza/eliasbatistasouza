@@ -1,6 +1,6 @@
 <!--- LANGUAGE --->
 <text>
-  <a style="font-size: 6px" href="/README_PT.md">Não fala Inglês? Vá para a versão em Português!</a>
+  <a style="font-size: 4px" href="/README_PT.md">[NÃO FALA INGLÊS? VÁ PARA A VERSÃO EM PORTUGUÊS]</a>
 </text>
 
 <!--- BANNER --->
@@ -88,7 +88,8 @@ ___
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle badge"></a>
   --> 
 </div> 
-<br>
 
+<br>
+<br>
 <!-- FOOTER -->
 <img width=100% src="./assets/footer.png"/>
