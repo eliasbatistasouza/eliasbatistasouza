@@ -1,15 +1,15 @@
+<!-- LOAD FLAGS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.6.6/css/flag-icons.min.css"/>
+
 <!--- LANGUAGE --->
-<small>
-<small>
-<small>
-<small>
-<small>
-  <a href="/README_en.md">[DON'T SPEAK PORTUGUESE? GO TO THE ENGLISH VERSION!]</a>
-</small>
-</small>
-</small>
-</small>
-</small>
+<div align="center" style="font-size: 6px">
+	<a href="/README_pt.md">
+		<span class="fi fi-br"></span>
+	</a>
+	<a href="/README_en.md">
+		<span class="fi fi-us"></span>
+	</a>
+</div>
 
 <!--- BANNER --->
 <img src="./assets/banner_PT.png"/>
