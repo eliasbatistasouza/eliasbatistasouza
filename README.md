@@ -8,13 +8,13 @@
 
 <!--- BIO --->
 <br>
-<div style="padding: 30px">
-  <div style="padding: 10px">
+<div style="display: flex; padding: 30px">
+  <div style="margin: 5px">
   </div>
-    <p align="justify" style="font-size: 16px; margin-left: 15px">
+    <p align="justify" style="font-size: 16px">
       Olá! Eu sou um consultor empresarial com experiência em ajudar empresas a alcançar seus objetivos de negócios e maximizar sua eficiência operacional. Atualmente meu principal objetivo é atuar como Cientista de Dados buscando aliar meus conhecimentos de negócio com técnicas de análises, machine learning e estatística, buscando propor soluções para os mais diversos tipos de problemas de negócio, utilizando dados.
   </p>
-  <div style="padding: 10px">
+  <div style="margin: 5px">
   </div>
 </div>
 
