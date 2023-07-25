@@ -1,22 +1,22 @@
 <!--- LANGUAGE --->
 <text>
-  <a style="font-size: 6px" href="/README_en.md">Don't speak portuguese? Go to the English version!</a>
+  <a style="font-size: 6px" href="/README_PT.md">Não fala Inglês? Vá para a versão em Português!</a>
 </text>
 
 <!--- BANNER --->
-<img src="./assets/banner_PT.png"/>
+<img src="./assets/banner_EN.png"/>
 
 <!--- BIO --->
 <br>
 <div align="justify">
   <p style="font-size: 16px">
-  Olá! Eu sou um consultor empresarial com experiência em ajudar empresas a alcançar seus objetivos de negócios e maximizar sua eficiência operacional. Atualmente meu principal objetivo é atuar como Cientista de Dados buscando aliar meus conhecimentos de negócio com técnicas de análises, machine learning e estatística, buscando propor soluções para os mais diversos tipos de problemas de negócio, utilizando dados.
+    Hi! I am a business consultant with experience in helping companies achieve their business goals and maximize their operational efficiency. Currently my main goal is to act as a Data Scientist looking to combine my business knowledge with techniques of analysis, machine learning and statistics, to propose solutions for the most diverse types of business problems using data.
   </p>
 </div>
 
 <!-- BLOG POSTS -->
 <!--
-<h3 align="center"><b>📄 ÚLTIMOS POSTS</b></h3>
+<h3 align="center"><b>📄 LATESTS BLOG POSTS</b></h3>
 
 ___
 
@@ -25,32 +25,32 @@ ___
 
 <!-- PROJECTS -->
 <!--
-<h3 align="center"><b>🗂️ ÚLTIMOS PROJETOS</b></h3>
+<h3 align="center"><b>🗂️ FEATURED PROJECTS</b></h3>
 
 ---
 
 <div align="center">
-  <a href="https://github.com/eliasbatistasouza/ratings-dashboard">
+<a href="https://github.com/eliasbatistasouza/ratings-dashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eliasbatistasouza&repo=ratings-dashboard&theme=dark"/>
-  </a>
-  <a href="https://github.com/eliasbatistasouza/ratings-dashboard">
+</a>
+<a href="https://github.com/eliasbatistasouza/ratings-dashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eliasbatistasouza&repo=ratings-dashboard&theme=dark"/>
-  </a>
+</a>
 </div>
-
 <div align="center">
-  <a href="https://github.com/eliasbatistasouza/ratings-dashboard">
+<a href="https://github.com/eliasbatistasouza/ratings-dashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eliasbatistasouza&repo=ratings-dashboard&theme=dark"/>
-  </a>
-  <a href="https://github.com/eliasbatistasouza/ratings-dashboard">
+</a>
+<a href="https://github.com/eliasbatistasouza/ratings-dashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eliasbatistasouza&repo=ratings-dashboard&theme=dark"/>
-  </a>
+</a>
 </div>
 -->
 
+
 <!-- CURRENTLY LEARNING -->
 <div align="center">
-  <h3><b>🪛 FERRAMENTAS & HABILIDADES</b></h3>
+  <h3><b>🪛 TOOLS & SKILLS</b></h3>
 </div>
 
 ___
@@ -75,7 +75,7 @@ ___
 
 <!-- CONTACT -->
 <div align="center">
-  <h3><b>☎️ ENTRE EM CONTATO</b></h3>
+  <h3><b>☎️ GET IN TOUCH</b></h3>
 </div>
 
 ___
@@ -92,4 +92,3 @@ ___
 
 <!-- FOOTER -->
 <img width=100% src="./assets/footer.png"/>
-
