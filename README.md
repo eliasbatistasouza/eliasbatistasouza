@@ -1,7 +1,15 @@
 <!--- LANGUAGE --->
-<text>
-  <a style="font-size: 4px" href="/README_en.md">[DON'T SPEAK PORTUGUESE? GO TO THE ENGLISH VERSION!]</a>
-</text>
+<small>
+<small>
+<small>
+<small>
+<small>
+  <a href="/README_en.md">[DON'T SPEAK PORTUGUESE? GO TO THE ENGLISH VERSION!]</a>
+</small>
+</small>
+</small>
+</small>
+</small>
 
 <!--- BANNER --->
 <img src="./assets/banner_PT.png"/>
