@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.6.6/css/flag-icons.min.css"/>
 
 <!--- LANGUAGE --->
-<div align="center" style="font-size: 6px">
+<div align="center" style="font-size: 9px">
 	<a href="/README_pt.md">
 		<span class="fi fi-br"></span>
 	</a>
