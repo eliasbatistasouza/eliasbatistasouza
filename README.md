@@ -8,9 +8,7 @@
 <!--- BIO --->
 <br>
 <div align="justify">
-  <div>
   Olá! Eu sou um consultor empresarial com experiência em ajudar empresas a alcançar seus objetivos de negócios e maximizar sua eficiência operacional. Atualmente meu principal objetivo é atuar como Cientista de Dados buscando aliar meus conhecimentos de negócio com técnicas de análises, machine learning e estatística, buscando propor soluções para os mais diversos tipos de problemas de negócio, utilizando dados.
-  </div>
 </div>
 
 <!-- BLOG POSTS -->
@@ -80,7 +78,7 @@ ___
 ___
 <br>
 <div align="center">  
-  <a href="www.instagram.com/eliasbatistas" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="instagram badge"></a>
+  <a href="https://eliasbatista.com" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-689f38?style=for-the-badge&logo=About.me&logoColor=white" alt="website badge"></a>
   <a href = "mailto:contato@eliasbatista.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail badge"></a>
   <a href="https://www.linkedin.com/in/eliasbatistasouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"></a> 
   <!--

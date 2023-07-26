@@ -8,12 +8,8 @@
 
 <!--- BIO --->
 <br>
-<div align="justify" style="padding: 30px">
-    <div style="padding: 10px">
-    <p style="font-size: 16px">
-        Hi! I am a business consultant with experience in helping companies achieve their business goals and maximize their operational efficiency. Currently my main goal is to act as a Data Scientist looking to combine my business knowledge with techniques of analysis, machine learning and statistics, to propose solutions for the most diverse types of business problems using data.
-    </p>
-    </div>
+<div align="justify">
+  Hi! I am a business consultant with experience in helping companies achieve their business goals and maximize their operational efficiency. Currently my main goal is to act as a Data Scientist looking to combine my business knowledge with techniques of analysis, machine learning and statistics, to propose solutions for the most diverse types of business problems using data.
 </div>
 
 <!-- BLOG POSTS -->
@@ -83,7 +79,7 @@ ___
 ___
 <br>
 <div align="center">  
-  <a href="www.instagram.com/eliasbatistas" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="instagram badge"></a>
+  <a href="https://eliasbatista.com" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-689f38?style=for-the-badge&logo=About.me&logoColor=white" alt="website badge"></a>
   <a href = "mailto:contato@eliasbatista.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail badge"></a>
   <a href="https://www.linkedin.com/in/eliasbatistasouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge"></a> 
   <!--
