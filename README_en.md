@@ -9,7 +9,7 @@
 <!--- BIO --->
 <br>
 <div align="justify">
-  Hi! I am a business consultant with experience in helping companies achieve their business goals and maximize their operational efficiency. Currently my main goal is to act as a Data Scientist looking to combine my business knowledge with techniques of analysis, machine learning and statistics, to propose solutions for the most diverse types of business problems using data.
+Hello! I am a Software Analysis and Development student focused on acting as Data Scientist, integrating my business knowledge with skills in analysis, machine learning and statistics. My goal is to propose innovative solutions to a wide range of business challenges through data analysis. My career in business consulting has given me a solid understanding of the obstacles companies face today and how data can be used to solve complex problems.
 </div>
 
 <!-- BLOG POSTS -->
