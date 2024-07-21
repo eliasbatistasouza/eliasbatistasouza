@@ -8,7 +8,7 @@
 <!--- BIO --->
 <br>
 <div align="justify">
-Olá! Sou um estudante de Análise e Desenvolvimento de Sistemas focado em atuar como Cientista de Dados, integrando meu conhecimento em negócios com habilidades em análises, machine learning e estatística. Meu objetivo é propor soluções inovadoras para uma ampla gama de desafios empresariais por meio da análise de dados. Minha trajetória na consultoria empresarial me proporcionou uma compreensão sólida dos obstáculos enfrentados pelas empresas atualmente e como os dados podem ser empregados para solucionar problemas complexos.
+Olá! Sou um Analista de Dados e estudante de Análise e Desenvolvimento de Sistemas focado em atuar como na área de dados, integrando meu conhecimento em negócios com habilidades em análises, machine learning e estatística. Meu objetivo é propor soluções inovadoras para uma ampla gama de desafios empresariais por meio da análise de dados. Minha trajetória na consultoria empresarial me proporcionou uma compreensão sólida dos obstáculos enfrentados pelas empresas atualmente e como os dados podem ser empregados para solucionar problemas complexos.
 
 <!-- BLOG POSTS -->
 <!--
