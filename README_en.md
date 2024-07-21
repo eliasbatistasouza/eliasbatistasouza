@@ -9,7 +9,7 @@
 <!--- BIO --->
 <br>
 <div align="justify">
-Hello! I am a Software Analysis and Development student focused on acting as Data Scientist, integrating my business knowledge with skills in analysis, machine learning and statistics. My goal is to propose innovative solutions to a wide range of business challenges through data analysis. My career in business consulting has given me a solid understanding of the obstacles companies face today and how data can be used to solve complex problems.
+Hello! I am a Data Analyst and a Software Analysis and Development student focused on working with data, integrating my business knowledge with skills in analysis, machine learning and statistics. My goal is to propose innovative solutions to a wide range of business challenges through data analysis. My career in business consulting has given me a solid understanding of the obstacles companies face today and how data can be used to solve complex problems.
 </div>
 
 <!-- BLOG POSTS -->
