@@ -48,7 +48,7 @@ ___
 
 <!-- CURRENTLY LEARNING -->
 <div align="center">
-  <h3><b>🪛 TOOLS & SKILLS</b></h3>
+  <h3><b>🛠 TOOLS & SKILLS</b></h3>
 </div>
 
 ___
